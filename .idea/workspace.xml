@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="82dda6bf-ffba-454b-b7bb-02389037a480" name="Changes" comment="" />
+    <list default="true" id="82dda6bf-ffba-454b-b7bb-02389037a480" name="Changes" comment="Linea base de&#10;\proyecto">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemploo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,11 +27,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Ejemploo1.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\labf402\Downloads\Semana04\MalosHabitos\MalosHabitos" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.Ejemploo1">
     <configuration name="Ejemploo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MalosHabitos" />
@@ -93,7 +106,20 @@
       <option name="presentableId" value="Default" />
       <updated>1725922299473</updated>
     </task>
+    <task id="LOCAL-00001" summary="Linea base de&#10;\proyecto">
+      <option name="closed" value="true" />
+      <created>1725922637348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725922637348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Linea base de&#10;\proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linea base de&#10;\proyecto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
